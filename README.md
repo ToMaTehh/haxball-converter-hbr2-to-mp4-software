@@ -17,7 +17,7 @@
 | Capa | Tecnología | Función |
 | :--- | :--- | :--- |
 | **Frontend** | ```Svelte + TypeScript``` | *Interfaz de usuario y selector de archivos* |
-| **Backend Nativo** | ```Rust (Tauri)``` | *Orquestación, manejo de procesos y seguridad* |
+| **Backend** | ```Rust (Tauri)``` | *Orquestación, manejo de procesos y seguridad* |
 | **Automatización** | ```Node.js (Puppeteer + FFmpeg)``` | *Carga del replay y renderizado de video* |
 
 ## 📦 — INSTALACIÓN Y DESARROLLO
