@@ -41,5 +41,4 @@ git clone https://github.com/ToMaTehh/haxball-converter-hbr2-to-mp4-software
 - *El usuario selecciona un archivo .hbr2 desde la interfaz de Svelte.*
 - *El frontend invoca un comando seguro hacia el backend de Rust.*
 - *Rust levanta de forma nativa el script de automatización (index.ts) pasándole el archivo como argumento.*
-
-Node.js interactúa con el juego en segundo plano y exporta el video final en alta definición.
+- *Node.js interactúa con el juego en segundo plano y exporta el video final en alta definición.*
