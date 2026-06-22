@@ -11,22 +11,9 @@ if (!archivoHbr2) {
 
 console.log(`[Node.js Backend] Iniciando automatización para: ${archivoHbr2}`);
 
-// Acá va a ir tu lógica con Puppeteer y FFmpeg que lee 'archivoHbr2'
-// Por ahora simulamos que tarda 3 segundos trabajando y termina:
-// ... (mantenés lo que ya tenías arriba para capturar el argumento)
-
 async function procesarGrabacion() {
   try {
     console.log(`[Node.js Backend] Abriendo Puppeteer para procesar: ${archivoHbr2}`);
-    
-    // 1. Acá levantás Puppeteer
-    // const browser = await puppeteer.launch();
-    // const page = await browser.newPage();
-    
-    // 2. Tu lógica para cargar la web de HaxBall o la herramienta de grabación
-    // await page.goto('https://...'); 
-    
-    // 3. Tu lógica de conversión o inyección usando la variable `archivoHbr2`
     
     console.log(`[Node.js Backend] Conversión finalizada con éxito para ${archivoHbr2}`);
     process.exit(0); // Le avisa a Rust que todo salió de 10
