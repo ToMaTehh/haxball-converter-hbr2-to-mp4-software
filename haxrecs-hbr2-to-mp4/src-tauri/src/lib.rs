@@ -25,7 +25,6 @@ fn ejecutar_script(nombre_archivo: String) -> Result<String, String> {
     }
 }
 
-// === ESTO ES LO QUE NOS FALTABA ACÁ ABAJO ===
 #[cfg_attr(mobile, tauri::mobile_entry_point)]
 pub fn run() {
     tauri::Builder::default()
