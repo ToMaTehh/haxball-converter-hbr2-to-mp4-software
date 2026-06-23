@@ -1,4 +1,6 @@
-# 💻 — HaxRec CONVERSOR .hbr2 > .mp4 (v0.1.0)
+# 💻 — HaxRec CONVERSOR .hbr2 ➡ .mp4 (v0.1.0)
+
+![HaxRecConverterHBR2toMP4Banner](https://media.discordapp.net/attachments/1513072111579562034/1518789494185398393/1.png?ex=6a3b3271&is=6a39e0f1&hm=7f7b3374bd72ebb9a62c8d9f797766251d299f3d051aebf8addde0835b4a18b2&=&format=webp&quality=lossless&width=930&height=465)
 
 ## 🖥️ — INTRODUCCIÓN
 ***HaxRec Converter** es una aplicación de escritorio diseñada para automatizar la conversión de archivos de repetición de HaxBall (`.hbr2`) a videos de alta calidad (`.mp4`). Olvidate de grabar la pantalla manualmente; la app se encarga de todo el proceso de renderizado en segundo plano.*
